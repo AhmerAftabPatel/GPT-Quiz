@@ -73,3 +73,8 @@ https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46
     http://localhost:5000/
     ```
 6. Enjoy!
+
+
+### Note
+
+I will be updating this repo and make a finished product for the use in adademia. Please feel free to raise Pr and add any functionality as you desire. 
