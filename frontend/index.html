@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Custom Quiz maker</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <link rel="icon" type="image/x-icon" href="static/favicon.ico">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Gpt Quiz maker</h1>
+            </div>
+            <p class = "topics-interest">Type topics and set difficultt level of questions and get your personalized quiz ready in minutes</p>
+
+        </header>
+
+        <section class="topic-selection">
+            <form id="topicForm">
+                <div class="form-group" id="topicGroup1">
+                    <label>Topic</label>
+                    &nbsp;
+                    <input class = "inputText" type="text" id="topic1" name="topic1" required>
+                    &nbsp;
+                    <label>Diffculty level</label>
+                    <input style="width: 50px;" class = "inputText" type="number" id="diffculty_level" name="diffculty_level">
+                    <span class="icon add-topic">---</span>
+                    <span class="icon remove-topic">-</span>
+                </div>
+            </form>
+    <p class = "layout">Select quiz paper layout</p>
+    <div class="layouts">
+        <img src="static/layout_icons/layout_1.png" alt="Layout 1" class="layout-icon" data-layout="layout_1.html">
+        <img src="static/layout_icons/layout_2.png" alt="Layout 2" class="layout-icon" data-layout="layout_2.html">
+        <img src="static/layout_icons/layout_3.png" alt="Layout 3" class="layout-icon" data-layout="layout_3.html">
+    </div>
+
+            <button type="button" id="produceNewspaper">Generate Quiz</button>
+
+
+        </section>
+
+        <section id="loading" class="hidden">
+                <div class="spinner"></div>
+                <div id="loadingMessages"></div>
+        </section>
+
+
+
+        <section id="quiz" class="hidden">
+            <!-- The quiz articles will be populated here -->
+        </section>
+    </div>
+
+    <script src="static/scripts.js"></script>
+</body>
+</html>
