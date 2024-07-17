@@ -22,7 +22,8 @@ Each agent plays a critical role in delivering a unique and personalized quiz ex
 
 
 ## Demo
-https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8
+
+[![Watch the video](https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8)](https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8)
 
 
 ## 🌟 Features
@@ -52,7 +53,7 @@ https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rotemweiss57/gpt-quiz.git
+   git clone
     ```
 2. Export your API Keys
    ```sh
@@ -72,20 +73,3 @@ https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46
     http://localhost:5000/
     ```
 6. Enjoy!
-
-## 🤝 Contributing
-
-Interested in contributing to GPT Quiz? We welcome contributions of all kinds! Check out our [Contributor's Guide](CONTRIBUTING.md) to get started.
-
-
-## 🛡️ Disclaimer
-
-GPT Quiz is an experimental project and provided "as-is" without any warranty. It's intended for personal use and not as a replacement for professional news outlets.
-
-## 📩 Contact Us
-
-For support or inquiries, please reach out to us:
-
-- [Email](mailto:rotem5707@gmail.com)
-
-Join us in redefining the future of news consumption with GPT Quiz!
