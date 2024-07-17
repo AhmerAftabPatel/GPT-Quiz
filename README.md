@@ -22,8 +22,8 @@ Each agent plays a critical role in delivering a unique and personalized quiz ex
 
 
 ## Demo
+https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8
 
-[![Watch the video](https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8)](https://www.loom.com/share/4c4da976ff784b8581f7d5cb6a48a8bb?sid=d547a455-59c6-46ef-90bb-14e3ba527fb8)
 
 
 ## 🌟 Features
