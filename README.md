@@ -22,7 +22,7 @@ Each agent plays a critical role in delivering a unique and personalized quiz ex
 
 
 ## Demo
-https://github.com/assafelovic/gpt-quiz/assets/91344214/7f265369-1293-4d95-9be5-02070f12c67e
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c42e8fedba51498bb6993eb48bd64728?sid=cf042f91-e7ad-4e20-8a91-47fc90681a1d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## 🌟 Features
