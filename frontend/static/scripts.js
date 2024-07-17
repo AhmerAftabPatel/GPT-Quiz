@@ -54,7 +54,7 @@ function produceNewspaper() {
 function toggleLoading(isLoading) {
     const loadingSection = document.getElementById('loading');
     const loadingMessages = document.getElementById('loadingMessages');
-    const messages = ["Looking for news...", "Curating sources...", "Writing articles...", "Editing final quiz..."];
+    const messages = ["Looking for text books...", "Curating sources...", "Forming questions...", "Editing final quiz..."];
     loadingMessages.style.fontFamily = "'Gill Sans', sans-serif";
     if (isLoading) {
         loadingSection.classList.remove('hidden');
