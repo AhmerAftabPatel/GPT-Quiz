@@ -1,6 +1,6 @@
 # GPT Quiz
 
-Welcome to the GPT Quiz project, an innovative autonomous agent designed to create personalized newspapers tailored to user preferences. GPT Quiz revolutionizes the way we consume news by leveraging the power of AI to curate, write, design, and edit content based on individual tastes and interests.
+Welcome to the GPT Quiz project, an innovative autonomous agent designed to create personalized quiz tailored to user preferences. GPT Quiz revolutionizes the way we generate quiz questions by leveraging the power of AI to curate, write, design, and edit content based on individual topics.
 
 ## 🔍 Overview
 
